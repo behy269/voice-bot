@@ -1,0 +1,14 @@
+{
+  "name": "voice-bot",
+  "version": "1.0.0",
+  "description": "Discord Voice Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
